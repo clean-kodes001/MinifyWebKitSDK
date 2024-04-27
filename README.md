@@ -1,10 +1,20 @@
-# MinifyWebKitSDK
-Sure, here's the complete README code for your MinifyWebKitSDK:
 
 ```markdown
 # MinifyWebKitSDK
 
 MinifyWebKitSDK is an open-source library that serves as an alternative to React Native, offering cross-platform development capabilities. With MinifyWebKitSDK, you can write once and run anywhere (WORA) by building web apps, desktop apps, and Android apps using prebuilt components ready for use.
+
+##How it Works
+It replicates React-native, bringing the capabilities of Native device to webview wrappera enabling your web native pages to run and function like the traditional mobile apps built in React-native, java and the likes.
+
+##Why Use this Library
+- Less development time
+- Fast data processing
+- Write once, run anywhere
+- Cross platform
+- Uses JavaScript & Babel
+- Optimized newtork processing
+- Native UI components modification 
 
 ## Features
 
